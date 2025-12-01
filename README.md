@@ -4,56 +4,67 @@
 
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:24283b,100:1a1b27&section=header&text=Sanjay%20Kumar&fontSize=60&fontColor=70a5fd&fontAlignY=35&desc=Senior%20Full-Stack%20%26%20Frontend%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- MAIN TITLE -->
 
-<!-- ANIMATED TYPING -->
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> Hey, I'm Sanjay Kumar
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Crafting+Code+%E2%80%A2+Building+Experiences+%E2%9C%A8;%F0%9F%9A%80+7%2B+Years+%7C+React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" /></a>
+<!-- SUBTITLE WITH ANIMATION -->
 
-<br/>
-
-<!-- ANIMATED RAINBOW LINE -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&lines=Senior+Full-Stack+Engineer+%40+HighLevel;7%2B+Years+Building+Digital+Products;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-
-<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/🌐_Portfolio-hellosanjay.com-1a1b27?style=for-the-badge&labelColor=1a1b27" /></a>
-<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1b27" /></a>
-<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27" /></a>
-<a href="https://github.com/luv-jeri"><img src="https://img.shields.io/badge/GitHub-Follow-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
+<!-- ANIMATED TECH ICONS -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,tailwind,figma&theme=dark" alt="Tech Stack" />
 
 <br/><br/>
 
-<!-- QUICK STATS -->
-<img src="https://img.shields.io/badge/🎯_7%2B_Years_Experience-24283b?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/⚡_Frontend_Architecture-24283b?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/📍_Indore,_India-24283b?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/✅_Open_to_Work-238636?style=for-the-badge&labelColor=1a1b27" />
+<!-- SOCIAL LINKS - CLEAN STYLE -->
+
+<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/luv-jeri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<!-- PROFILE STATS -->
-<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=for-the-badge&color=24283b&labelColor=1a1b27&label=PROFILE+VIEWS" />
-<a href="https://github.com/luv-jeri?tab=followers"><img src="https://img.shields.io/github/followers/luv-jeri?style=for-the-badge&color=24283b&labelColor=1a1b27&logo=github" /></a>
+<!-- METRICS ROW -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/7+-6C63FF?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>Years Exp</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/200+-6C63FF?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>Developers Trained</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/50+-6C63FF?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>Projects Shipped</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Open-238636?style=for-the-badge&logoColor=white" /><br/>
+<sub><b>To Work</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=flat-square&color=6C63FF&label=Profile+Views" alt="Profile Views" />
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1b27,50:24283b,100:1a1b27&section=footer" width="100%"/>
-
 <!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 <!-- ABOUT SECTION -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
