@@ -10,52 +10,19 @@
 
 <div align="center">
 
-<!-- BOOT SEQUENCE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:00ff41,50:00d4ff,75:ff00ff,100:0d0d0d&height=120&section=header" width="100%"/>
+<!-- PIXEL HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1" width="100%"/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║    ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄         ║
-║   ▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌        ║
-║    ▀▀▀▀█░█▀▀▀▀ ▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀         ║
-║        ▐░▌     ▐░▌▐░▌    ▐░▌▐░▌          ▐░▌          ▐░▌       ▐░▌     ▐░▌             ║
-║        ▐░▌     ▐░▌ ▐░▌   ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌     ▐░▌             ║
-║        ▐░▌     ▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌             ║
-║        ▐░▌     ▐░▌   ▐░▌ ▐░▌ ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀█░█▀▀      ▐░▌             ║
-║        ▐░▌     ▐░▌    ▐░▌▐░▌          ▐░▌▐░▌          ▐░▌     ▐░▌       ▐░▌             ║
-║    ▄▄▄▄█░█▄▄▄▄ ▐░▌     ▐░▐░▌ ▄▄▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌      ▐░▌      ▐░▌             ║
-║   ▐░░░░░░░░░░░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌     ▐░▌             ║
-║    ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀       ▀              ║
-║                                                                                          ║
-║                            ▀▀▀   C O I N   ▀▀▀                                          ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
+    ███████╗ █████╗ ███╗   ██╗     ██╗ █████╗ ██╗   ██╗
+    ██╔════╝██╔══██╗████╗  ██║     ██║██╔══██╗╚██╗ ██╔╝
+    ███████╗███████║██╔██╗ ██║     ██║███████║ ╚████╔╝
+    ╚════██║██╔══██║██║╚██╗██║██   ██║██╔══██║  ╚██╔╝
+    ███████║██║  ██║██║ ╚████║╚█████╔╝██║  ██║   ██║
+    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝
 ```
 
-<!-- ANIMATED BOOT SEQUENCE -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%96%88%E2%96%88%E2%96%88+SYSTEM+BOOT+SEQUENCE+%E2%96%88%E2%96%88%E2%96%88;%3E+Loading+player+profile...;%3E+Initializing+7%2B+years+of+XP...;%3E+PLAYER+1+READY!" alt="Boot Sequence" /></a>
-
-<br/><br/>
-
-<!-- GAME CARTRIDGE VISUAL -->
-
-```
-                    ┌─────────────────────────────────────┐
-                    │  ╔═══════════════════════════════╗  │
-                    │  ║                               ║  │
-                    │  ║   ⬛⬛⬛ SANJAY.EXE ⬛⬛⬛    ║  │
-                    │  ║                               ║  │
-                    │  ║   FULL-STACK WIZARD v7.0     ║  │
-                    │  ║   ─────────────────────────   ║  │
-                    │  ║   ▸ React    ▸ TypeScript    ║  │
-                    │  ║   ▸ Next.js  ▸ Node.js       ║  │
-                    │  ║                               ║  │
-                    │  ╚═══════════════════════════════╝  │
-                    │             🎮 🎮 🎮                │
-                    └─────────────────────────────────────┘
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=30&lines=FULL-STACK+WIZARD+%E2%97%86+LVL+99+%E2%97%86+7%2B+YEARS+XP" alt="Typing" /></a>
 
 <br/>
 
@@ -64,56 +31,26 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 👾 PLAYER SELECT SCREEN -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 👾 &nbsp; PLAYER SELECT
+## 👾 PLAYER 1
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                           ║
-║   ┌─────────────────────────────────────────────────────────────────────────────────────┐ ║
-║   │                                                                                     │ ║
-║   │   ╭─────────╮                                                                       │ ║
-║   │   │  ◉   ◉  │     PLAYER 1                                                         │ ║
-║   │   │    ▽    │     ══════════════════════════════════════════════════════           │ ║
-║   │   │  ╰───╯  │     NAME ........... SANJAY KUMAR                                    │ ║
-║   │   ╰─────────╯     HANDLE ......... @luv-jeri                                       │ ║
-║   │      ╭───╮        CLASS .......... FULL-STACK WIZARD                               │ ║
-║   │     ╭┴───┴╮       RANK ........... SDE III @ HighLevel                             │ ║
-║   │    ╭┴─────┴╮                                                                        │ ║
-║   │   ╱─────────╲     ┌──────────────────────────────────────────────────────────┐     │ ║
-║   │  ╱───────────╲    │  HP ████████████████████████████████████░░  90/100       │     │ ║
-║   │                   │  MP ██████████████████████████████░░░░░░░░  75/100       │     │ ║
-║   │                   │  XP ████████████████████████████████████████ LVL 99      │     │ ║
-║   │                   └──────────────────────────────────────────────────────────┘     │ ║
-║   │                                                                                     │ ║
-║   │   🌍 SPAWN: Indore, India 🇮🇳       ⏰ TIMEZONE: IST (UTC+5:30)                    │ ║
-║   │   💬 LANG: English • Hindi          🎯 STATUS: 🟢 ONLINE & READY                   │ ║
-║   │                                                                                     │ ║
-║   └─────────────────────────────────────────────────────────────────────────────────────┘ ║
-║                                                                                           ║
-║                              ▼ PRESS START TO CONTINUE ▼                                 ║
-║                                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║  NAME: SANJAY KUMAR              CLASS: FULL-STACK WIZARD         ║
+║  RANK: SDE III @ HighLevel       XP: 7+ Years  ████████████ LVL99 ║
+╠════════════════════════════════════════════════════════════════════╣
+║  📍 Indore, India    💬 EN/HI    🌐 Remote OK    🟢 ONLINE        ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- SOCIAL WARP PIPES -->
-<p>
-<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/🌐_WARP_ZONE:_PORTFOLIO-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/📡_CO--OP:_LINKEDIN-00d4ff?style=for-the-badge&labelColor=0d0d0d" alt="LinkedIn"/></a>
-<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/📧_MESSAGE:_EMAIL-ff00ff?style=for-the-badge&labelColor=0d0d0d" alt="Email"/></a>
-<a href="https://github.com/luv-jeri"><img src="https://img.shields.io/badge/👾_FOLLOW:_GITHUB-ffff00?style=for-the-badge&labelColor=0d0d0d" alt="GitHub"/></a>
-</p>
+<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/📡_LINKEDIN-00d4ff?style=for-the-badge&labelColor=0d0d0d" alt="LinkedIn"/></a>
+<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-ff00ff?style=for-the-badge&labelColor=0d0d0d" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=👀+PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/luv-jeri?tab=followers"><img src="https://img.shields.io/github/followers/luv-jeri?style=for-the-badge&color=00d4ff&labelColor=0d0d0d&logo=github&label=FOLLOWERS" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=flat-square&color=00ff41&labelColor=0d0d0d&label=VIEWS" alt="Views"/>
 
 </div>
 
@@ -121,62 +58,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 PLAYER STATS / HIGH SCORES -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🕹️ &nbsp; PLAYER STATS
+## 🕹️ STATS
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   ╔═══════════════╗   ╔═══════════════╗   ╔═══════════════╗   ╔═══════════════╗     ║
-║   ║               ║   ║               ║   ║               ║   ║               ║     ║
-║   ║    🎮 7+      ║   ║   👨‍🏫 200+    ║   ║    🚀 50+     ║   ║   💎 1000+    ║     ║
-║   ║    YEARS      ║   ║    DEVS       ║   ║   PROJECTS    ║   ║   COMMITS     ║     ║
-║   ║      XP       ║   ║   TRAINED     ║   ║   SHIPPED     ║   ║   /YEAR       ║     ║
-║   ║               ║   ║               ║   ║               ║   ║               ║     ║
-║   ╚═══════════════╝   ╚═══════════════╝   ╚═══════════════╝   ╚═══════════════╝     ║
-║                                                                                      ║
-║   ┌────────────────────────────────────────────────────────────────────────────┐    ║
-║   │                                                                            │    ║
-║   │   CURRENT QUEST: Leading Courses & Credentials Platform @ HighLevel       │    ║
-║   │   DIFFICULTY: ████████████░░ LEGENDARY                                     │    ║
-║   │                                                                            │    ║
-║   └────────────────────────────────────────────────────────────────────────────┘    ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+`🎮 7+ YEARS` `👨‍🏫 200+ DEVS TRAINED` `🚀 50+ PROJECTS` `💎 1000+ COMMITS/YR`
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 SKILL TREE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🎯 &nbsp; SKILL TREE
+## 🎯 SKILL TREE
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                          │
-│   SELECT YOUR PATH   ══════════════════════════════════════════════════════════════════  │
-│                                                                                          │
-│   [A] ⚔️ FRONTEND     [B] 🛡️ BACKEND     [C] ☁️ CLOUD     [D] 🎨 DESIGN               │
-│                                                                                          │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-### ⚔️ &nbsp; FRONTEND ARSENAL &nbsp; `[MASTERED]`
+### ⚔️ FRONTEND `[MASTERED]`
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -196,7 +90,7 @@
 
 <br/><br/>
 
-### 🛡️ &nbsp; BACKEND FORTRESS &nbsp; `[ADVANCED]`
+### 🛡️ BACKEND `[ADVANCED]`
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -216,7 +110,7 @@
 
 <br/><br/>
 
-### ☁️ &nbsp; CLOUD POWERS &nbsp; `[UNLOCKED]`
+### ☁️ CLOUD `[UNLOCKED]`
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -235,7 +129,7 @@
 
 <br/><br/>
 
-### 🎨 &nbsp; DESIGN MAGIC &nbsp; `[SPECIAL]`
+### 🎨 DESIGN `[SPECIAL]`
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -258,21 +152,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS UNLOCKED -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🏆 &nbsp; ACHIEVEMENTS UNLOCKED
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║    ★ ★ ★ ★ ★   LEGENDARY QUESTS COMPLETED   ★ ★ ★ ★ ★                                  ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
+## 🏆 ACHIEVEMENTS
 
 <table>
 <tr>
@@ -280,20 +162,7 @@
 
 ### 🎓 COURSES PLATFORM
 
-**`[ BOSS DEFEATED ]`**
-
-```
-┌────────────────────────────────────┐
-│  📚 QUEST: Course Builder          │
-│  ═══════════════════════════════   │
-│  ✓ Real-time WYSIWYG editor        │
-│  ✓ Device preview modes            │
-│  ✓ i18n subtitles                  │
-│  ✓ Mobile via Capacitor            │
-│                                    │
-│  REWARD: +5000 XP                  │
-└────────────────────────────────────┘
-```
+**Real-time WYSIWYG builder with mobile app**
 
 `React` `TypeScript` `Module Fed` `Capacitor`
 
@@ -302,20 +171,7 @@
 
 ### 🏅 CREDENTIALS PLATFORM
 
-**`[ LEGENDARY DROP ]`**
-
-```
-┌────────────────────────────────────┐
-│  🎨 QUEST: Badge Designer          │
-│  ═══════════════════════════════   │
-│  ✓ Canvas-based visual editor      │
-│  ✓ CSV bulk issuance               │
-│  ✓ QR verification portal          │
-│  ✓ Analytics dashboard             │
-│                                    │
-│  REWARD: +5000 XP                  │
-└────────────────────────────────────┘
-```
+**Canva-style badge builder & verification**
 
 `React` `Canvas APIs` `TypeScript` `Node.js`
 
@@ -326,20 +182,7 @@
 
 ### 🌍 CLIMATE TECH
 
-**`[ EPIC VICTORY ]`**
-
-```
-┌────────────────────────────────────┐
-│  📊 QUEST: DMRV Platform           │
-│  ═══════════════════════════════   │
-│  ✓ Carbon verification             │
-│  ✓ Real-time reporting             │
-│  ✓ Next.js SSR                     │
-│  ✓ Secure auth flows               │
-│                                    │
-│  REWARD: +4000 XP                  │
-└────────────────────────────────────┘
-```
+**Carbon verification & reporting platform**
 
 `Next.js` `Firebase` `GCP` `TypeScript`
 
@@ -348,20 +191,7 @@
 
 ### 📱 CROSS-PLATFORM
 
-**`[ SECRET UNLOCKED ]`**
-
-```
-┌────────────────────────────────────┐
-│  🔄 QUEST: Platform Parity         │
-│  ═══════════════════════════════   │
-│  ✓ Capacitor integration           │
-│  ✓ Offline-first strategy          │
-│  ✓ Native bridge APIs              │
-│  ✓ App Store deployment            │
-│                                    │
-│  REWARD: +4000 XP                  │
-└────────────────────────────────────┘
-```
+**Web to mobile without code duplication**
 
 `Capacitor` `React` `PWA` `Mobile`
 
@@ -369,23 +199,15 @@
 </tr>
 </table>
 
-<br/>
-
-<a href="https://hellosanjay.com/projects"><img src="https://img.shields.io/badge/🕹️_VIEW_ALL_COMPLETED_QUESTS-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="View Projects"/></a>
+<a href="https://hellosanjay.com/projects"><img src="https://img.shields.io/badge/🕹️_ALL_PROJECTS-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="View Projects"/></a>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📜 QUEST LOG / EXPERIENCE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## 📜 &nbsp; QUEST LOG
+## 📜 QUEST LOG
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
@@ -435,25 +257,10 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 BATTLE STATS / GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 📊 &nbsp; BATTLE STATS
+## 📊 GITHUB STATS
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║                    ═══ GITHUB ARENA SCOREBOARD ═══                                       ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<!-- GITHUB TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=luv-jeri&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="Trophies"/>
 
 <br/><br/>
@@ -483,129 +290,45 @@
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ SPECIAL ABILITIES / COMPETENCIES -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## ✨ &nbsp; SPECIAL ABILITIES
+## ✨ ABILITIES
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║                          ═══ PASSIVE SKILLS EQUIPPED ═══                                 ║
-║                                                                                          ║
-╠══════════════════╦══════════════════╦══════════════════╦═════════════════════════════════╣
-║                  ║                  ║                  ║                                 ║
-║  🏗️ ARCHITECTURE ║  ⚡ PERFORMANCE  ║  ♿ A11Y         ║  📱 CROSS-PLATFORM              ║
-║  ──────────────  ║  ──────────────  ║  ──────────────  ║  ─────────────────              ║
-║                  ║                  ║                  ║                                 ║
-║  Micro-frontends ║  Core Web Vitals ║  WCAG Compliance ║  Web → Mobile                   ║
-║  Module Fed      ║  Code Splitting  ║  Keyboard Nav    ║  Capacitor                      ║
-║  Shared Libs     ║  Lazy Loading    ║  Screen Readers  ║  Native Bridges                 ║
-║  Indie Deploy    ║  SSR & Caching   ║  Inclusive UX    ║  Feature Parity                 ║
-║                  ║                  ║                  ║                                 ║
-╚══════════════════╩══════════════════╩══════════════════╩═════════════════════════════════╝
-```
+`🏗️ Micro-frontends` `⚡ Core Web Vitals` `♿ WCAG` `📱 Web → Mobile` `📦 Module Fed` `🚀 SSR`
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 JOIN MY PARTY / CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## 🎮 &nbsp; JOIN MY PARTY
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║                          ═══ MULTIPLAYER MODE ENABLED ═══                                ║
-║                                                                                          ║
-║   ┌──────────────────────────────────────────────────────────────────────────────────┐   ║
-║   │                                                                                  │   ║
-║   │   📍 SPAWN POINT ........ Indore, India (IST, UTC+5:30)                         │   ║
-║   │   🌐 MULTIPLAYER ........ Remote-Friendly (Global Co-op)                        │   ║
-║   │   💬 VOICE CHAT ......... English • Hindi                                       │   ║
-║   │   🎯 LOOKING FOR ........ Senior Frontend / Full-Stack Roles                    │   ║
-║   │                                                                                  │   ║
-║   └──────────────────────────────────────────────────────────────────────────────────┘   ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
+## 🎮 CONNECT
 
 <!-- CONNECT BUTTONS -->
 
-<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/🌐_hellosanjay.com-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Website"/></a>
-&nbsp;
+<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Website"/></a>
 <a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/📡_LINKEDIN-00d4ff?style=for-the-badge&labelColor=0d0d0d" alt="LinkedIn"/></a>
-&nbsp;
 <a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-ff00ff?style=for-the-badge&labelColor=0d0d0d" alt="Email"/></a>
 
 <br/><br/>
 
-<!-- HIRING CTA -->
-
-<a href="https://hellosanjay.com/contact"><img src="https://img.shields.io/badge/🚀_READY_FOR_NEW_QUEST_—_OPEN_TO_WORK-ffff00?style=for-the-badge&labelColor=0d0d0d" alt="Open to Work"/></a>
+<a href="https://hellosanjay.com/contact"><img src="https://img.shields.io/badge/🚀_OPEN_TO_WORK-ffff00?style=for-the-badge&labelColor=0d0d0d" alt="Open to Work"/></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- GAME OVER / FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:00ff41,50:00d4ff,75:ff00ff,100:0d0d0d&height=100&section=footer" width="100%"/>
-
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║                                                                                          ║
-║      ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗            ║
-║     ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗           ║
-║     ██║  ███╗███████║██╔████╔██║█████╗      ██║   ██║██║   ██║█████╗  ██████╔╝           ║
-║     ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗           ║
-║     ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║           ║
-║      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝     ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝           ║
-║                                                                                          ║
-║                           ...JUST KIDDING! 🎮                                            ║
-║                                                                                          ║
-║               Thanks for visiting my arcade! See you in the next level.                  ║
-║                                                                                          ║
-║                           CONTINUE?  [YES]  [NO]                                         ║
-║                                                                                          ║
-║                              © 2024 SANJAY KUMAR                                         ║
-║                                  @luv-jeri                                               ║
-║                                                                                          ║
-║                     ╭───────────────────────────────────╮                                ║
-║                     │  "Code should be a canvas,        │                                ║
-║                     │        not a cage."               │                                ║
-║                     ╰───────────────────────────────────╯                                ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
+██████████████████████████████████████████████████████████████████████
+    GAME OVER? NAH, JUST GETTING STARTED! 🎮
+    © 2024 SANJAY KUMAR @luv-jeri
+██████████████████████████████████████████████████████████████████████
 ```
-
-<br/>
-
-<sub>⭐ Star this repo if you enjoyed the game! • Made with ❤️ and lots of ☕</sub>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 </div>
