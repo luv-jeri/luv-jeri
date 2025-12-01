@@ -1,54 +1,55 @@
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-<!-- HEADER SECTION -->
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              HERO SECTION                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED GRADIENT BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0d1117,161b22,0d1117,161b22,0d1117&height=280&section=header&text=Sanjay%20Kumar&fontSize=70&fontColor=61DAFB&animation=twinkling&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Frontend%20Engineer&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:24283b,100:1a1b27&section=header&text=Sanjay%20Kumar&fontSize=60&fontColor=70a5fd&fontAlignY=35&desc=Senior%20Full-Stack%20%26%20Frontend%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Crafting+Code+%E2%80%A2+Building+Experiences+%E2%80%A2+Shipping+Products+%E2%9C%A8;%F0%9F%9A%80+7%2B+Years+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%F0%9F%9A%80;%F0%9F%8E%AE+Level+99+Frontend+Wizard+%E2%80%A2+Pixel+Perfectionist+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Crafting+Code+%E2%80%A2+Building+Experiences+%E2%9C%A8;%F0%9F%9A%80+7%2B+Years+%7C+React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- GAME ANIMATION (PACMAN) -->
+<!-- ANIMATED RAINBOW LINE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Game" width="0" height="0" /> <!-- Preload hack -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
 <br/>
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.gif?raw=true" width="100%" alt="Game Animation" />
 
-<br/>
+<!-- SOCIAL BADGES -->
 
-<!-- SOCIAL LINKS - ANIMATED -->
-
-<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/Portfolio-hellosanjay.com-0d1117?style=for-the-badge&logo=safari&logoColor=61DAFB&labelColor=0d1117&color=161b22" /></a>
-<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=161b22" /></a>
-<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=161b22" /></a>
-<a href="https://github.com/luv-jeri"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=161b22" /></a>
+<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/🌐_Portfolio-hellosanjay.com-1a1b27?style=for-the-badge&labelColor=1a1b27" /></a>
+<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1b27" /></a>
+<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27" /></a>
+<a href="https://github.com/luv-jeri"><img src="https://img.shields.io/badge/GitHub-Follow-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
 
 <br/><br/>
 
-<!-- QUICK STATS PILLS -->
-<img src="https://img.shields.io/badge/🎯_7%2B_Years_Experience-161b22?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⚡_Frontend_Architecture-161b22?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🇮🇳_Indore,_India-161b22?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/✅_Open_to_Work-238636?style=for-the-badge&labelColor=0d1117" />
+<!-- QUICK STATS -->
+<img src="https://img.shields.io/badge/🎯_7%2B_Years_Experience-24283b?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/⚡_Frontend_Architecture-24283b?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/📍_Indore,_India-24283b?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/✅_Open_to_Work-238636?style=for-the-badge&labelColor=1a1b27" />
 
 <br/><br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=for-the-badge&color=161b22&labelColor=0d1117&label=PROFILE+VIEWS" />
-<a href="https://github.com/luv-jeri?tab=followers"><img src="https://img.shields.io/github/followers/luv-jeri?style=for-the-badge&color=161b22&labelColor=0d1117&logo=github" /></a>
+<!-- PROFILE STATS -->
+<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=for-the-badge&color=24283b&labelColor=1a1b27&label=PROFILE+VIEWS" />
+<a href="https://github.com/luv-jeri?tab=followers"><img src="https://img.shields.io/github/followers/luv-jeri?style=for-the-badge&color=24283b&labelColor=1a1b27&logo=github" /></a>
 
 </div>
 
-<!-- WAVE SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer&reversal=true" width="100%"/>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1b27,50:24283b,100:1a1b27&section=footer" width="100%"/>
 
 <!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 <!-- ABOUT SECTION -->
