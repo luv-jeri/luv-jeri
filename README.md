@@ -1,276 +1,357 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=1&section=header" width="100%"/>
+
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Full-Stack%20%26%20Frontend%20Engineer&descAlignY=52&descSize=18"/>
+<!-- Animated SVG Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82++SANJAY+KUMAR++%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=1F2328&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82++SANJAY+KUMAR++%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" alt="Sanjay Kumar"/>
+</picture>
 
-<!-- Typing Animation -->
+<br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%E2%9C%A8+Crafting+Digital+Experiences;%F0%9F%8E%A8+Where+Code+Meets+Art" alt="Typing SVG" /></a>
+<!-- Subtitle with typing effect -->
 
-<!-- Social Badges with Hover Effect -->
-<p>
-<a href="https://hellosanjay.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/luv-jeri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="https://github.com/luv-jeri" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
-<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Senior+Full-Stack+%26+Frontend+Engineer;SDE+III+%40+HighLevel;Crafting+scalable+digital+experiences" alt="Typing SVG" /></a>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/><br/>
+
+<!-- Minimal Social Links -->
+
+[![Portfolio](https://img.shields.io/badge/hellosanjay.com-000?style=flat&logo=vercel&logoColor=white)](https://hellosanjay.com)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/luv--jeri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luv-jeri)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/hello-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hellosanjaygautam@gmail.com)
 
 </div>
 
-<!-- About Section with Custom Styling -->
+<br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<!-- Snake Animation -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake.svg" />
+</picture>
+</div>
 
-```typescript
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- SECTION: About -->
+<table>
+<tr>
+<td width="55%">
+
+## ⚡ About
+
+```javascript
 const sanjay = {
-  location: "Indore, India 🇮🇳",
-  role: "SDE III @ HighLevel",
-  passion: "Building scalable, beautiful web experiences",
-
-  currentFocus: [
-    "Micro-frontends & Module Federation",
-    "Real-time collaborative applications",
-    "Web-to-Mobile with Capacitor",
-    "Performance optimization at scale",
+  title: "SDE III @ HighLevel",
+  location: "Indore, India",
+  focus: [
+    "Micro-frontend Architecture",
+    "Real-time Systems",
+    "Performance at Scale",
   ],
-
-  funFact:
-    "I believe great UX is invisible — when done right, users just feel it ✨",
+  philosophy: "Great UX is invisible—users just feel it",
 };
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+**Currently building** — Course platforms, credentials systems & community tools  
+**Obsessed with** — Module Federation, WebSockets, Capacitor for mobile  
+**Superpower** — Turning complex requirements into elegant, performant code
 
-<!-- Tech Stack with Modern Cards -->
+</td>
+<td width="45%" align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p988f6rcla&rid=giphy.gif" width="28"> Tech Arsenal
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luv-jeri&layout=donut-vertical&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" height="220"/>
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-### 🎨 Frontend Mastery
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vue,angular,tailwind&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=redux,threejs,gsap,sass,html,css&theme=dark" />
-</p>
+<!-- SECTION: Tech Stack - Bento Grid Style -->
 
-### ⚡ Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postgres,mongodb&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=redis,firebase,gcp,docker,git,linux&theme=dark" />
-</p>
-
-### 📱 Mobile & Cross-Platform
-
-<p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-</p>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- Featured Projects Showcase -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
+## 🛠 Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎓 HighLevel Courses Platform
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
-
-> Creator-led course & community builder with multimedia, quizzes, drip content & mobile parity via Capacitor
-
-**✦** Real-time editing & device previews  
-**✦** i18n subtitles & threaded comments  
-**✦** Module Federation architecture
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><sub><b>React</b></sub>
 </td>
-<td width="50%">
-
-### 🏆 Credentials Platform
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canvas_API-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Module_Federation-764ABC?style=flat-square"/>
-
-> Certifier-style credentialing tool with visual editor, bulk issuance & verification
-
-**✦** WYSIWYG Canvas-based designer  
-**✦** CSV bulk flows & UUID verification  
-**✦** Analytics dashboards & social sharing
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+<br><sub><b>Vue</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+<br><sub><b>Angular</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+<br><sub><b>Three.js</b></sub>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🌍 DMRV Carbon Verification
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/SSR-00D8FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square"/>
-
-> Digital Measurement, Reporting & Verification for environmental data
-
-**✦** High-performance data views  
-**✦** Real-time reporting & caching  
-**✦** Reusable component library
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><sub><b>Node.js</b></sub>
 </td>
-<td width="50%">
-
-### 🎨 Interactive Portfolio (3D)
-
-<img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-
-> Creative portfolio with advanced animations & 3D elements
-
-**✦** Smooth 60fps animations  
-**✦** WebGL shader effects  
-**✦** Excellent Lighthouse scores
-
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+<br><sub><b>NestJS</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br><sub><b>GraphQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br><sub><b>Firebase</b></sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
+<!-- Expertise Areas -->
+<table>
+<tr>
+<td align="center" width="200">
+<h4>🏗️ Architecture</h4>
+<sub>Micro-frontends • Module Federation • Design Systems • Component Libraries</sub>
+</td>
+<td align="center" width="200">
+<h4>⚡ Performance</h4>
+<sub>SSR/SSG • Code Splitting • Core Web Vitals • Lighthouse 100</sub>
+</td>
+<td align="center" width="200">
+<h4>📱 Cross-Platform</h4>
+<sub>React Native • Capacitor • PWA • Responsive Design</sub>
+</td>
+<td align="center" width="200">
+<h4>🔄 Real-Time</h4>
+<sub>WebSockets • Socket.io • Firebase RTDB • Live Collaboration</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- SECTION: Featured Work -->
+
+## 🎯 Selected Work
+
+<div align="center">
+
+```javascript
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   01  HIGHLEVEL COURSES                                                     │
+│       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│       Creator-led course platform • Real-time editing • Mobile via          │
+│       Capacitor • Module Federation • i18n subtitles • Threaded comments    │
+│                                                                             │
+│       React ─ Next.js ─ TypeScript ─ Capacitor ─ Firebase                   │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│   02  CREDENTIALS PLATFORM                                                  │
+│       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│       Certifier-style tool • WYSIWYG Canvas editor • Bulk issuance          │
+│       UUID verification • Analytics dashboards • Social sharing             │
+│                                                                             │
+│       React ─ Canvas API ─ Module Federation ─ Analytics                    │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│   03  DMRV CARBON VERIFICATION                                              │
+│       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│       Environmental data platform • High-performance views • Real-time      │
+│       reporting • Reusable component library • SSR with caching             │
+│                                                                             │
+│       Next.js ─ TypeScript ─ shadcn/ui ─ SSR ─ PostgreSQL                   │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│   04  INTERACTIVE 3D PORTFOLIO                                              │
+│       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│       Creative portfolio • 60fps animations • WebGL shaders                 │
+│       Performance optimized • Lighthouse 90+ scores                         │
+│                                                                             │
+│       Three.js ─ GSAP ─ WebGL ─ React ─ Framer Motion                       │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
 <a href="https://hellosanjay.com/projects">
-<img src="https://img.shields.io/badge/🚀_View_All_Projects-6366F1?style=for-the-badge" alt="View Projects"/>
+  <img src="https://img.shields.io/badge/View_All_Projects_→-58A6FF?style=for-the-badge&logoColor=white" alt="View Projects"/>
 </a>
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- GitHub Stats with Modern Styling -->
+<!-- SECTION: GitHub Metrics -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"> GitHub Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luv-jeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=luv-jeri&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luv-jeri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+<!-- Stats Row -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luv-jeri&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=luv-jeri&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=58a6ff&dates=6e7681&sideNums=8b949e&background=00000000" />
+
+<br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luv-jeri&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&title_color=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luv-jeri&custom_title=Contribution%20Timeline&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&title_color=58a6ff&area=true&hide_border=true" width="98%"/>
+
+<br/>
+
+<!-- Metrics Cards Row -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luv-jeri&theme=transparent" width="98%"/>
+
+<br/><br/>
+
+<!-- Trophy Row -->
+<img src="https://github-profile-trophy.vercel.app/?username=luv-jeri&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=4" width="98%"/>
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Experience Timeline -->
+<!-- SECTION: Experience Timeline -->
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> Journey So Far
+## 📅 Experience
 
+```javascript
+                                      ╭──────────────────────────────╮
+     2023 ────────────────────────────│  HighLevel                   │
+       ┃                              │  SDE III                     │
+       ┃    ▸ Courses Platform        │  Micro-frontends             │
+       ┃    ▸ Credentials Platform    │  Module Federation           │
+       ┃    ▸ Communities             │  Capacitor Mobile            │
+       ┃                              ╰──────────────────────────────╯
+       ┃
+     2022 ────────────────────────────╭──────────────────────────────╮
+       ┃                              │  Climate Connect / ReNew     │
+       ┃    ▸ DMRV Platform           │  Senior Frontend Engineer    │
+       ┃    ▸ Carbon Trading          │  Next.js • SSR               │
+       ┃    ▸ Real-time Systems       │  Real-time Data              │
+       ┃                              ╰──────────────────────────────╯
+       ┃
+     2020 ────────────────────────────╭──────────────────────────────╮
+       ┃                              │  Haspr Design Studio         │
+       ┃    ▸ 3D Portfolios           │  Frontend Developer          │
+       ┃    ▸ Creative Experiences    │  Three.js • GSAP             │
+       ┃    ▸ Animation Systems       │  WebGL                       │
+       ┃                              ╰──────────────────────────────╯
+       ┃
+     2019 ────────────────────────────╭──────────────────────────────╮
+       ▼                              │  Freelance & Startups        │
+                                      │  Full-Stack Developer        │
+         ▸ Mobile Apps                │  React Native • Node.js      │
+         ▸ SaaS Platforms             │  MongoDB                     │
+                                      ╰──────────────────────────────╯
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   2023 - Present    HighLevel (SDE III)                         │
-│   ═══════════════   Building Courses, Credentials, Communities  │
-│                     Micro-frontends • Module Federation          │
-│                                                                  │
-│   2022 - 2023       ReNew Power / Climate Connect Digital       │
-│   ═══════════════   DMRV Platform • Carbon Trading Systems      │
-│                     Next.js • SSR • Real-time Data              │
-│                                                                  │
-│   2020 - 2022       Haspr Design Studio                         │
-│   ═══════════════   Creative Portfolios • 3D Experiences        │
-│                     Three.js • GSAP • WebGL                      │
-│                                                                  │
-│   2019 - 2020       Freelance & Startups                        │
-│   ═══════════════   Mobile Apps • Full-Stack Development        │
-│                     React Native • Node.js                       │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Current Status -->
+<!-- SECTION: Current Focus -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Currently
+## 🎯 Currently
 
 <div align="center">
 
-|         🔭 Working On         |         🌱 Learning         |         💬 Ask About         |
-| :---------------------------: | :-------------------------: | :--------------------------: |
-|  Micro-frontend Architecture  |  AI/ML Integration in Web   | React/Next.js Best Practices |
-| Real-time Collaborative Tools |    Rust for WebAssembly     |   Performance Optimization   |
-|  Cross-platform Mobile Apps   | Advanced Animation Patterns |        System Design         |
+|        Building         |      Learning       |  Let's Talk About  |
+| :---------------------: | :-----------------: | :----------------: |
+| Micro-frontend Systems  |  AI/ML in Web Apps  | React Architecture |
+| Real-time Collaboration |    Rust for WASM    | Performance Tuning |
+|  Cross-platform Mobile  | Advanced Animations |   System Design    |
+
+<br/>
+
+<!-- 3D Contribution Calendar -->
+<img src="https://github.com/luv-jeri/luv-jeri/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph"/>
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Connect Section -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
-
+<!-- SECTION: Connect -->
 <div align="center">
 
-<p>
+## Let's Build Something Amazing
+
+<br/>
+
 <a href="https://hellosanjay.com">
-<img src="https://img.shields.io/badge/🌐_hellosanjay.com-Visit_Portfolio-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge" />
 </a>
-</p>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/luv-jeri">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hellosanjaygautam@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p>
-<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br/><br/>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" />
+<br/><br/>
 
-<br/>
-
-<!-- Profile Views & Trophies -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=luv-jeri&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=luv-jeri&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
+```javascript
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   "The best code is no code at all. The second best is code that's        │
+│    so simple it obviously has no bugs."                                    │
+│                                                                            │
+│                                                    — The Art of Simplicity │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=1&section=footer" width="100%"/>
