@@ -10,11 +10,13 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sanjay%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sanjay%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Code.&descAlignY=52&descSize=22" width="100%" />
 
 <!-- TAGLINE -->
+<h3>I lead modern web and mobile builds that scale and convert.</h3>
+
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=550&lines=%F0%9F%9A%80+Building+products+that+scale;%E2%9C%A8+7%2B+years+of+crafting+experiences;%F0%9F%92%BB+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;%F0%9F%8C%9F+Open+to+exciting+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=SDE+III+%40+HighLevel+%7C+7%2B+Years+Experience;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+Capacitor;Micro-frontends+%7C+SSR+%7C+Real-time+%7C+Web%E2%86%92Mobile" alt="Typing SVG" />
 </p>
 
 <!-- QUICK LINKS -->
