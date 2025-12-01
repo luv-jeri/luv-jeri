@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<!-- ANIMATED GRADIENT BANNER -->
+<!-- ANIMATED GRADIENT BANNER! -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,2,2,2,2&height=280&section=header&text=Sanjay%20Kumar&fontSize=70&fontColor=61DAFB&animation=twinkling&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Frontend%20Engineer&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- ANIMATED TYPING -->
