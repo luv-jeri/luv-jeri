@@ -1,16 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-
-```
-███████╗ █████╗ ███╗   ██╗     ██╗ █████╗ ██╗   ██╗
-██╔════╝██╔══██╗████╗  ██║     ██║██╔══██╗╚██╗ ██╔╝
-███████╗███████║██╔██╗ ██║     ██║███████║ ╚████╔╝
-╚════██║██╔══██║██║╚██╗██║██   ██║██╔══██║  ╚██╔╝
-███████║██║  ██║██║ ╚████║╚█████╔╝██║  ██║   ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝
-```
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=30&lines=FULL-STACK+WIZARD+%E2%97%86+LVL+99+%E2%97%86+7%2B+YEARS+XP" alt="Typing" /></a>
 
 </div>
