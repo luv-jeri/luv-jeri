@@ -4,65 +4,24 @@
 
 <div align="center">
 
-<!-- MAIN TITLE -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> Hey, I'm Sanjay Kumar
-
-<!-- SUBTITLE WITH ANIMATION -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&lines=Senior+Full-Stack+Engineer+%40+HighLevel;7%2B+Years+Building+Digital+Products;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Full-Stack%20Engineer%20%7C%207%2B%20Years%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=52&descSize=14"/>
 
 <br/>
 
-<!-- ANIMATED TECH ICONS -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,tailwind,figma&theme=dark" alt="Tech Stack" />
-
-<br/><br/>
-
-<!-- SOCIAL LINKS - CLEAN STYLE -->
-
-<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/luv-jeri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<!-- METRICS ROW -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/7+-6C63FF?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Years Exp</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/200+-6C63FF?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Developers Trained</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/50+-6C63FF?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Projects Shipped</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Open-238636?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>To Work</b></sub>
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=500&lines=Building+products+that+scale+%F0%9F%9A%80;Crafting+pixel-perfect+experiences+%E2%9C%A8;Leading+frontend+architecture+%F0%9F%8F%97%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=flat-square&color=6C63FF&label=Profile+Views" alt="Profile Views" />
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=luv-jeri&style=flat-square&color=blueviolet"/>
 
 </div>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<br/>
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 <!-- ABOUT SECTION -->
 <!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
