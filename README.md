@@ -261,32 +261,39 @@
 
 ## 📊 GITHUB STATS
 
+<!-- BENTO GRID -->
+<table>
+<tr>
+<td colspan="2">
 <img src="https://github-profile-trophy.vercel.app/?username=luv-jeri&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="Trophies"/>
-
-<br/><br/>
-
-<!-- STATS CARDS -->
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luv-jeri&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=luv-jeri&theme=dark&hide_border=true&background=0D0D0D&stroke=00ff41&ring=00d4ff&fire=ff00ff&currStreakLabel=00ff41&sideLabels=00ff41" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luv-jeri&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&langs_count=8" width="400" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luv-jeri&custom_title=⚔️%20Contribution%20Battle%20Log%20⚔️&bg_color=0d0d0d&color=00ff41&line=00d4ff&point=ff00ff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-<br/>
-
-<!-- CONTRIBUTION SNAKE -->
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luv-jeri&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=luv-jeri&theme=dark&hide_border=true&background=0D0D0D&stroke=00ff41&ring=00d4ff&fire=ff00ff&currStreakLabel=00ff41&sideLabels=00ff41" width="100%" alt="GitHub Streak"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luv-jeri&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&langs_count=8" width="100%" alt="Top Languages"/>
+</td>
+<td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luv-jeri&custom_title=Contributions&bg_color=0d0d0d&color=00ff41&line=00d4ff&point=ff00ff&area=true&hide_border=true&height=200" width="100%" alt="Activity Graph"/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" width="100%"/>
 </picture>
+</td>
+</tr>
+</table>
 
 </div>
 
