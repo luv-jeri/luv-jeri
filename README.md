@@ -266,13 +266,13 @@
 <br/><br/>
 
 <!-- STATS CARDS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luv-jeri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&ring_color=ff00ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=luv-jeri&theme=chartreuse-dark&hide_border=true&background=0D0D0D&stroke=00ff41&ring=00d4ff&fire=ff00ff&currStreakLabel=00ff41" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luv-jeri&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=luv-jeri&theme=dark&hide_border=true&background=0D0D0D&stroke=00ff41&ring=00d4ff&fire=ff00ff&currStreakLabel=00ff41&sideLabels=00ff41" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luv-jeri&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&langs_count=8" width="320" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luv-jeri&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&langs_count=8" width="400" alt="Top Languages"/>
 
 <br/><br/>
 
