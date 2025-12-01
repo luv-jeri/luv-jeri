@@ -7,11 +7,20 @@
 <div align="center">
 
 <!-- ANIMATED GRADIENT BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,2,2,2,2&height=280&section=header&text=Sanjay%20Kumar&fontSize=70&fontColor=61DAFB&animation=twinkling&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Frontend%20Engineer&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0d1117,161b22,0d1117,161b22,0d1117&height=280&section=header&text=Sanjay%20Kumar&fontSize=70&fontColor=61DAFB&animation=twinkling&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Frontend%20Engineer&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Crafting+Code+%E2%80%A2+Building+Experiences+%E2%80%A2+Shipping+Products+%E2%9C%A8;%F0%9F%9A%80+7%2B+Years+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Crafting+Code+%E2%80%A2+Building+Experiences+%E2%80%A2+Shipping+Products+%E2%9C%A8;%F0%9F%9A%80+7%2B+Years+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%F0%9F%9A%80;%F0%9F%8E%AE+Level+99+Frontend+Wizard+%E2%80%A2+Pixel+Perfectionist+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- GAME ANIMATION (PACMAN) -->
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Game" width="0" height="0" /> <!-- Preload hack -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.gif?raw=true" width="100%" alt="Game Animation" />
 
 <br/>
 
