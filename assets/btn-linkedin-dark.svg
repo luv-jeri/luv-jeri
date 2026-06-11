@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 42" width="240" height="42" role="img" aria-label="LINKEDIN">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 56" width="300" height="56" role="img" aria-label="LINKEDIN">
   <style>
     .hv { font-family: Helvetica, Arial, sans-serif; }
     .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
     .tm { font-family: 'Times New Roman', Times, serif; }
     .blink { animation: blink 1.2s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <rect x="0" y="0" width="240" height="42" fill="none"/>
-  <rect x="1" y="1" width="238" height="40" fill="#0d1117" stroke="#ffffff" stroke-width="1"/>
-  <text class="hv" x="120" y="27" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">LINKEDIN</text>
+  <rect x="0" y="0" width="300" height="56" fill="none"/>
+  <rect x="1" y="1" width="298" height="54" fill="#0d1117" stroke="#ffffff" stroke-width="1.5"/>
+  <text class="hv" x="150" y="35" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">LINKEDIN</text>
 </svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="Section: HOW I SHIP">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="Section: NOW IN PRODUCTION">
   <style>
     .hv { font-family: Helvetica, Arial, sans-serif; }
     .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
@@ -9,8 +9,8 @@
     @keyframes sweep { from { transform: scaleX(0); } to { transform: scaleX(1); } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <rect x="0" y="0" width="1200" height="80" fill="#ffffff"/>
-  <rect x="0" y="0" width="1200" height="80" fill="#d77a7a" stroke="#000000" stroke-width="1"/>
-  <text class="bk" x="24" y="50" font-size="36" fill="#000000">HOW I SHIP</text>
-  <rect class="sw" x="24" y="60" width="220" height="3" fill="#000000"/>
+  <rect x="0" y="0" width="1200" height="80" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="80" fill="#e6915d" stroke="#ffffff" stroke-width="1"/>
+  <text class="bk" x="24" y="50" font-size="36" fill="#000000">NOW IN PRODUCTION</text>
+  <rect class="sw" x="24" y="60" width="374" height="3" fill="#000000"/>
 </svg>

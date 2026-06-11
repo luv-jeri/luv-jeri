@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="1200" height="290" role="img" aria-label="THE TOOL FACTORY: an assembly line where AI agents research, spec, design, build and review micro web tools, every stage guarded by a fail-closed Python gate. skill-forge builds new skills, skill-reviewer attacks them. 9 skills shipped. First unit: a time-card calculator, 58 of 58 tests green.">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+    .blink { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .dot { animation: roll 7.2s linear infinite; }
+    @keyframes roll { from { transform: translateX(0); } to { transform: translateX(978px); } }
+    .stage { animation: lit 7.2s steps(1) infinite; opacity: 0; }
+    .g1 { animation-delay: 0s; } .g2 { animation-delay: 1.2s; } .g3 { animation-delay: 2.4s; }
+    .g4 { animation-delay: 3.6s; } .g5 { animation-delay: 4.8s; } .g6 { animation-delay: 6s; }
+    @keyframes lit { 0% { opacity: 1; } 16.6% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="0" y="0" width="1200" height="290" fill="#0d1117"/>
+  <rect x="2" y="2" width="1196" height="34" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text class="hv" x="16" y="25" font-size="15" font-weight="700" fill="#000000">THE TOOL FACTORY</text>
+  <text class="hv" x="1184" y="25" font-size="11" font-weight="700" fill="#000000" text-anchor="end">EST. 2026 &#183; OPEN SOURCE &#183; PYTHON-GATED</text>
+  <rect x="2" y="36" width="1196" height="252" fill="#a5b8c0" stroke="#ffffff" stroke-width="1"/>
+  <text class="tm" x="30" y="72" font-size="17" fill="#000000">An assembly line where AI agents research, spec, design, build and review micro web tools &#8212; every stage</text>
+  <text class="tm" x="30" y="96" font-size="17" fill="#000000">guarded by a fail-closed Python gate. The factory even forges its own machines: <tspan font-weight="700">skill-forge</tspan> builds new</text>
+  <text class="tm" x="30" y="120" font-size="17" fill="#000000">skills, <tspan font-weight="700">skill-reviewer</tspan> attacks them for loopholes before they ship.</text>
+    <rect x="30" y="158" width="150" height="40" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <rect class="stage g1" x="30" y="158" width="150" height="40" fill="#fcc20f" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="105" y="183" font-size="12" font-weight="700" fill="#000000" text-anchor="middle">RESEARCH</text>
+    <line x1="180" y1="178" x2="220" y2="178" stroke="#000000" stroke-width="1.5"/>
+    <path d="M 214 173 L 220 178 L 214 183" fill="none" stroke="#000000" stroke-width="1.5"/>
+    <rect x="220" y="158" width="150" height="40" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <rect class="stage g2" x="220" y="158" width="150" height="40" fill="#fcc20f" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="295" y="183" font-size="12" font-weight="700" fill="#000000" text-anchor="middle">BRIEF</text>
+    <line x1="370" y1="178" x2="410" y2="178" stroke="#000000" stroke-width="1.5"/>
+    <path d="M 404 173 L 410 178 L 404 183" fill="none" stroke="#000000" stroke-width="1.5"/>
+    <rect x="410" y="158" width="150" height="40" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <rect class="stage g3" x="410" y="158" width="150" height="40" fill="#fcc20f" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="485" y="183" font-size="12" font-weight="700" fill="#000000" text-anchor="middle">PRD</text>
+    <line x1="560" y1="178" x2="600" y2="178" stroke="#000000" stroke-width="1.5"/>
+    <path d="M 594 173 L 600 178 L 594 183" fill="none" stroke="#000000" stroke-width="1.5"/>
+    <rect x="600" y="158" width="150" height="40" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <rect class="stage g4" x="600" y="158" width="150" height="40" fill="#fcc20f" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="675" y="183" font-size="12" font-weight="700" fill="#000000" text-anchor="middle">DESIGN</text>
+    <line x1="750" y1="178" x2="790" y2="178" stroke="#000000" stroke-width="1.5"/>
+    <path d="M 784 173 L 790 178 L 784 183" fill="none" stroke="#000000" stroke-width="1.5"/>
+    <rect x="790" y="158" width="150" height="40" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <rect class="stage g5" x="790" y="158" width="150" height="40" fill="#fcc20f" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="865" y="183" font-size="12" font-weight="700" fill="#000000" text-anchor="middle">BUILD</text>
+    <line x1="940" y1="178" x2="980" y2="178" stroke="#000000" stroke-width="1.5"/>
+    <path d="M 974 173 L 980 178 L 974 183" fill="none" stroke="#000000" stroke-width="1.5"/>
+    <rect x="980" y="158" width="150" height="40" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <rect class="stage g6" x="980" y="158" width="150" height="40" fill="#fcc20f" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="1055" y="183" font-size="12" font-weight="700" fill="#000000" text-anchor="middle">REVIEW</text>
+  <g class="dot"><circle cx="36" cy="146" r="5" fill="#e91d2a"/></g>
+  <line x1="30" y1="146" x2="1170" y2="146" stroke="#000000" stroke-width="1" stroke-dasharray="2 4"/>
+  <text class="hv" x="30" y="234" font-size="12" font-weight="700" fill="#000000">9 SKILLS SHIPPED &#183; IRON LAWS &#183; FAIL-CLOSED ENGINES &#183; RED-GREEN EVALS &#183; AGENTS BUILD AGENTS</text>
+  <text class="tm" x="30" y="262" font-size="14" font-style="italic" fill="#000000">First unit off the line: a time-card calculator &#8212; specced, split, built and reviewed by agents. 58/58 tests green.</text>
+  <g transform="rotate(-12 1100 60)">
+    <rect x="1062" y="48" width="80" height="30" fill="#000000"/>
+    <rect x="1058" y="44" width="80" height="30" fill="#fcc20f" stroke="#000000" stroke-width="1"/>
+    <text class="hv blink" x="1098" y="65" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">NEW!</text>
+  </g>
+</svg>
