@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 185" width="590" height="185" role="img" aria-label="DMRV PLATFORM (LEAD FRONTEND): Environmental measurement, reporting and verification - real-time, high-performance UI. FEAT: NEXT.JS - SSR - SHADCN/UI - TYPESCRIPT">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+    .blink { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+  </style>
+  <rect x="0" y="0" width="590" height="185" fill="#ffffff"/>
+  <rect x="2" y="2" width="586" height="32" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <text class="hv" x="14" y="24" font-size="14" font-weight="700" fill="#000000">DMRV PLATFORM</text>
+  <text class="hv" x="460" y="24" font-size="10" font-weight="700" fill="#000000" text-anchor="end">LEAD FRONTEND</text>
+  <rect x="2" y="34" width="586" height="149" fill="#b3bd95" stroke="#000000" stroke-width="1"/>
+  <text class="tm" x="20" y="76" font-size="14" fill="#000000">Environmental measurement, reporting &amp; verification &#8212;</text>
+  <text class="tm" x="20" y="97" font-size="14" fill="#000000">real-time, high-performance UI.</text>
+  <text class="hv" x="20" y="132" font-size="10.5" font-weight="700" fill="#000000">FEAT: NEXT.JS &#183; SSR &#183; SHADCN/UI &#183; TYPESCRIPT</text>
+  <text class="tm" x="20" y="162" font-size="13" font-style="italic" fill="#000000">As configured: shipped to production.</text>
+
+</svg>
