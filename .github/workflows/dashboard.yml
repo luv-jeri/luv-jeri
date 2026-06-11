@@ -27,5 +27,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/pulse.svg README.md
+          git add assets/pulse.svg assets/pulse-dark.svg README.md
           git diff --cached --quiet && echo "no changes" || (git commit -m "chore(dashboard): daily refresh" && git push)

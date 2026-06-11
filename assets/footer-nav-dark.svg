@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 124" width="1200" height="124" role="img" aria-label="Footer: FIND, HOME, WORK WITH ME, SUPPORT. Copyright 2026 Sanjay Kumar Gautam.">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+    .blink { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+  </style>
+  <rect x="0" y="0" width="1200" height="124" fill="#0d1117"/>
+  <rect x="120" y="44" width="960" height="3" fill="#c0d4a7"/>
+  <g stroke="#ffffff" stroke-width="2" fill="#0d1117">
+    <circle cx="290" cy="40" r="9"/><circle cx="312" cy="40" r="9"/><line x1="299" y1="40" x2="303" y2="40"/>
+  </g>
+  <text class="hv" x="301" y="68" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">FIND</text>
+  <g stroke="#ffffff" stroke-width="2" fill="#0d1117">
+    <path d="M 486 46 L 486 32 L 500 22 L 514 32 L 514 46 Z"/>
+  </g>
+  <text class="hv" x="500" y="68" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">HOME</text>
+  <g>
+    <rect x="676" y="28" width="50" height="22" fill="#fcc20f" stroke="#000000" stroke-width="1.5"/>
+    <text class="hv" x="701" y="43" font-size="9" font-weight="700" fill="#000000" text-anchor="middle">WORK</text>
+  </g>
+  <text class="hv" x="701" y="68" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">WORK WITH ME</text>
+  <g stroke="#ffffff" stroke-width="2" fill="none">
+    <path d="M 890 28 a 7 7 0 1 0 7 9 l 10 10 a 3.5 3.5 0 0 0 5 -5 l -10 -10 a 7 7 0 0 0 -12 -4"/>
+  </g>
+  <text class="hv" x="898" y="68" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">SUPPORT</text>
+  <text class="tm" x="600" y="95" font-size="13" fill="#9ab6c8" text-anchor="middle" text-decoration="underline">Copyright &#169; 2026 Sanjay Kumar Gautam</text>
+  <text class="tm" x="600" y="113" font-size="11" fill="#ffffff" text-anchor="middle">(Terms of Use: be kind, ship things.) This profile is best viewed with any browser since Netscape 3.0.</text>
+</svg>
