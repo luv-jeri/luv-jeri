@@ -3,12 +3,15 @@
     .hv { font-family: Helvetica, Arial, sans-serif; }
     .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
     .tm { font-family: 'Times New Roman', Times, serif; }
+    .blink { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .st { transform-box: fill-box; transform-origin: center; animation: stamp .7s ease-out both; }
+    .s2 { animation-delay: .15s; } .s3 { animation-delay: .3s; } .s4 { animation-delay: .45s; }
+    @keyframes stamp { from { opacity: 0; transform: scale(.85); } to { opacity: 1; transform: scale(1); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-
   <rect x="0" y="0" width="1200" height="150" fill="#ffffff"/>
-
-  <!-- card 1: EXPERIENCE — sage -->
-  <g>
+  <g class="st ">
     <rect x="8" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
     <text class="hv" x="20" y="28" font-size="13" font-weight="700" fill="#000000">EXPERIENCE</text>
     <rect x="8" y="38" width="285" height="100" fill="#b3bd95" stroke="#000000" stroke-width="1"/>
@@ -16,9 +19,7 @@
     <text class="tm" x="20" y="104" font-size="14" fill="#000000">SaaS / EdTech / EnergyTech.</text>
     <text class="tm" x="20" y="124" font-size="14" fill="#000000">Catalog-tested since 2018.</text>
   </g>
-
-  <!-- card 2: CURRENT POST — sky -->
-  <g>
+  <g class="st s2">
     <rect x="308" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
     <text class="hv" x="320" y="28" font-size="13" font-weight="700" fill="#000000">CURRENT POST</text>
     <rect x="308" y="38" width="285" height="100" fill="#9ab6c8" stroke="#000000" stroke-width="1"/>
@@ -26,9 +27,7 @@
     <text class="tm" x="320" y="104" font-size="14" fill="#000000">@ HighLevel &#8212; platforms for</text>
     <text class="tm" x="320" y="124" font-size="14" fill="#000000">courses &amp; credentials.</text>
   </g>
-
-  <!-- card 3: DEVELOPERS TAUGHT — peach -->
-  <g>
+  <g class="st s3">
     <rect x="608" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
     <text class="hv" x="620" y="28" font-size="13" font-weight="700" fill="#000000">DEVELOPERS TAUGHT</text>
     <rect x="608" y="38" width="285" height="100" fill="#e6915d" stroke="#000000" stroke-width="1"/>
@@ -36,9 +35,7 @@
     <text class="tm" x="620" y="104" font-size="14" fill="#000000">MERN &#183; MEAN &#183; Vue.</text>
     <text class="tm" x="620" y="124" font-size="14" fill="#000000">Newton School, Coding Ninjas.</text>
   </g>
-
-  <!-- card 4: STARTUP — salmon -->
-  <g>
+  <g class="st s4">
     <rect x="908" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
     <text class="hv" x="920" y="28" font-size="13" font-weight="700" fill="#000000">STARTUP</text>
     <rect x="908" y="38" width="285" height="100" fill="#d77a7a" stroke="#000000" stroke-width="1"/>

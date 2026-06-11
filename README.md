@@ -61,6 +61,16 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 
 </details>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/eyebrow-factory-dark.svg"><img src="assets/eyebrow-factory.svg" alt="NOW IN PRODUCTION" width="100%"></picture>
+
+<a href="https://github.com/luv-jeri/tool-factory-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/factory-feature-dark.svg"><img src="assets/factory-feature.svg" alt="THE TOOL FACTORY: an assembly line where AI agents research, spec, design, build and review micro web tools — every stage guarded by a fail-closed Python gate. skill-forge builds new skills, skill-reviewer attacks them for loopholes. 9 skills shipped. First unit off the line: a time-card calculator, 58/58 tests green. Click to visit the factory." width="100%"></picture></a>
+
+<div align="center">
+
+<sub>The nine machines: <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/pick-next-tool"><code>pick-next-tool</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/projects-competitive-analysis"><code>competitive-analysis</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/projects-prd-generator"><code>prd-generator</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/design-md"><code>design-md</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/task-splitter"><code>task-splitter</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/build-from-spec"><code>build-from-spec</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/seo-content"><code>seo-content</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/skill-forge"><code>skill-forge</code></a> · <a href="https://github.com/luv-jeri/tool-factory-skills/tree/main/skills/skill-reviewer"><code>skill-reviewer</code></a></sub>
+
+</div>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/eyebrow-acts-dark.svg"><img src="assets/eyebrow-acts.svg" alt="THREE ACTS SO FAR" width="100%"></picture>
 
 <table>
@@ -127,9 +137,9 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 
 <br><br>
 
-<a href="mailto:hellosanjaygautam@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-work-dark.svg"><img src="assets/btn-work.svg" alt="WORK WITH ME — email Sanjay" height="42"></picture></a>&nbsp;
-<a href="https://www.hellosanjay.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio.svg" alt="Portfolio — hellosanjay.com" height="42"></picture></a>&nbsp;
-<a href="https://www.linkedin.com/in/luv-jeri/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin.svg" alt="LinkedIn — luv-jeri" height="42"></picture></a>
+<a href="mailto:hellosanjaygautam@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-work-dark.svg"><img src="assets/btn-work.svg" alt="WORK WITH ME — email Sanjay" height="56"></picture></a>&nbsp;
+<a href="https://www.hellosanjay.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio.svg" alt="Portfolio — hellosanjay.com" height="56"></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/luv-jeri/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin.svg" alt="LinkedIn — luv-jeri" height="56"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-nav-dark.svg"><img src="assets/footer-nav.svg" alt="FIND · HOME · WORK WITH ME · SUPPORT — Copyright © 2026 Sanjay Kumar Gautam. This profile is best viewed with any browser since Netscape 3.0." width="100%"></picture>
 
