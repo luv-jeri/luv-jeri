@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="How I ship: we help you find the right platform, spec it, build it with agents, and ship it in days, not months. Fundamentals decide what to build; agents multiply how fast it lands; a human reviews every gate.">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+    .blink { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+  </style>
+  <rect x="0" y="0" width="1200" height="170" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="170" fill="#e91d2a" stroke="#000000" stroke-width="1"/>
+  <text class="tm" x="28" y="44" font-size="18" fill="#ffffff">At github.com/luv-jeri, we&#8217;ll help you find the right platform, spec it, build it with agents,</text>
+  <text class="tm" x="28" y="70" font-size="18" fill="#ffffff">and ship it &#8212; in days, not months.</text>
+  <text class="tm" x="28" y="102" font-size="15" font-style="italic" fill="#ffffff">Fundamentals decide what to build. Agents multiply how fast it lands. A human reviews every gate.</text>
+  <g>
+    <rect x="30" y="124" width="190" height="30" fill="#000000"/>
+    <rect x="28" y="122" width="190" height="30" fill="#000000" stroke="#ffffff" stroke-width="1"/>
+    <text class="hv" x="123" y="142" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">SEE THE RECEIPTS &#8594;</text>
+  </g>
+  <text class="hv" x="1172" y="146" font-size="12" font-weight="700" fill="#ffffff" text-anchor="end">NO VAPORWARE &#183; SHIPS TODAY</text>
+</svg>

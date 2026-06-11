@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 732 240" width="732" height="240" role="img" aria-label="System monitor, last 7 days: 49 commits, 1 pull requests, 0 reviews. Top languages: TypeScript, HTML, JavaScript, Python, MDX.">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+  </style>
+  <rect x="0" y="0" width="732" height="240" fill="#ffffff"/>
+  <rect x="2" y="2" width="728" height="34" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <text class="hv" x="16" y="25" font-size="14" font-weight="700" fill="#000000">SYSTEM MONITOR — THIS WEEK</text>
+  <text class="tm" x="716" y="25" font-size="12" font-style="italic" fill="#000000" text-anchor="end">auto-generated 2026-06-11</text>
+  <rect x="2" y="36" width="728" height="202" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <text class="bk" x="32" y="64" font-size="15" fill="#000000">ACTIVITY</text>
+  <text class="bk" x="368" y="64" font-size="15" fill="#000000">LANGUAGES</text>
+  <line x1="340" y1="50" x2="340" y2="222" stroke="#000000" stroke-width="1"/>
+<text class="hv" x="32" y="86" font-size="11" font-weight="700" fill="#000000">COMMITS</text>
+  <text class="bk" x="288" y="87" font-size="14" fill="#000000" text-anchor="end">49</text>
+  <rect x="32" y="93" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="33" y="94" width="228" height="8" fill="#8c9ae0"/>
+<text class="hv" x="32" y="122" font-size="11" font-weight="700" fill="#000000">PULL REQUESTS</text>
+  <text class="bk" x="288" y="123" font-size="14" fill="#000000" text-anchor="end">1</text>
+  <rect x="32" y="129" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="33" y="130" width="6" height="8" fill="#8c9ae0"/>
+<text class="hv" x="32" y="158" font-size="11" font-weight="700" fill="#000000">REVIEWS</text>
+  <text class="bk" x="288" y="159" font-size="14" fill="#000000" text-anchor="end">0</text>
+  <rect x="32" y="165" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="33" y="166" width="6" height="8" fill="#8c9ae0"/>
+<text class="hv" x="368" y="86" font-size="11" font-weight="700" fill="#000000">TYPESCRIPT</text>
+  <rect x="470" y="77" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="471" y="78" width="152" height="8" fill="#b3bd95"/>
+<text class="hv" x="368" y="113" font-size="11" font-weight="700" fill="#000000">HTML</text>
+  <rect x="470" y="104" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="471" y="105" width="49" height="8" fill="#e6915d"/>
+<text class="hv" x="368" y="140" font-size="11" font-weight="700" fill="#000000">JAVASCRIPT</text>
+  <rect x="470" y="131" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="471" y="132" width="12" height="8" fill="#9ab6c8"/>
+<text class="hv" x="368" y="167" font-size="11" font-weight="700" fill="#000000">PYTHON</text>
+  <rect x="470" y="158" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="471" y="159" width="9" height="8" fill="#d77a7a"/>
+<text class="hv" x="368" y="194" font-size="11" font-weight="700" fill="#000000">MDX</text>
+  <rect x="470" y="185" width="230" height="10" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="471" y="186" width="7" height="8" fill="#8c9ae0"/>
+</svg>

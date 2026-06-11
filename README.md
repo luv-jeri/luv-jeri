@@ -1,105 +1,138 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Architecting+Scalable+Platforms;7%2B+Years+of+Engineering+Excellence;Crafting+Code+at+HighLevel" alt="Typing SVG" />
-  </a>
+<a href="mailto:hellosanjaygautam@gmail.com"><img src="assets/masthead.svg" alt="SANJAY KUMAR GAUTAM — BUILD YOUR OWN PLATFORM. ONLINE. — 7 years of fundamentals × agentic speed — SDE III @ HighLevel, Indore IN — 1-800-HIRE-DEV (click to email)" width="100%"></a>
 
-  <p align="center">
-    <b>SDE III @ HighLevel</b> • <b>Ex-ReNew Power</b> • <b>Indore, India</b>
-  </p>
-
-  <p align="center">
-    <a href="https://hellosanjay.com"><img src="https://img.shields.io/badge/Portfolio-hellosanjay.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://linkedin.com/in/luv-jeri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:hellosanjaygautam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+<img src="assets/proof.svg" alt="Catalog spec cards: 7+ years across SaaS, EdTech, EnergyTech · SDE III @ HighLevel · 10,000+ developers taught · Founder of Haspr" width="100%">
 
 </div>
 
-<br/>
+<img src="assets/eyebrow-ship.svg" alt="HOW I SHIP" width="100%">
 
-### 🚀 Featured Engineering
+<a href="https://github.com/luv-jeri/tool-factory-skills"><img src="assets/cta-red.svg" alt="At github.com/luv-jeri, we'll help you find the right platform, spec it, build it with agents, and ship it — in days, not months. Fundamentals decide what to build. Agents multiply how fast it lands. A human reviews every gate. Click to see the receipts." width="100%"></a>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 HighLevel Credentials</h3>
-      <p align="center"><i>Lead Frontend Engineer</i></p>
-      <p>
-        A <b>Canva-style WYSIWYG editor</b> for designing and issuing digital credentials. Built from scratch to handle bulk issuance and blockchain-style verification.
-      </p>
-      <p align="center">
-        <code>React</code> <code>Canvas API</code> <code>Module Federation</code> <code>Node.js</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌍 Carbon Credit Marketplace</h3>
-      <p align="center"><i>Project Lead @ ReNew Power</i></p>
-      <p>
-        A <b>real-time trading platform</b> for carbon credits. Features live order books, role-based access for auditors/issuers, and secure registry integrations.
-      </p>
-      <p align="center">
-        <code>Next.js</code> <code>Firebase</code> <code>GCP</code> <code>Real-time DB</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Course Builder Platform</h3>
-      <p align="center"><i>Lead Frontend Engineer</i></p>
-      <p>
-        Comprehensive <b>LMS & Community platform</b> serving thousands of creators. Features mobile PWA, theme customization, and interactive video lessons.
-      </p>
-      <p align="center">
-        <code>React</code> <code>Capacitor</code> <code>Redux</code> <code>Micro-frontends</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Interactive Portfolio</h3>
-      <p align="center"><i>Creative Developer</i></p>
-      <p>
-        An award-winning agency portfolio showcasing technical creativity with <b>3D WebGL scenes</b> and 60fps animations.
-      </p>
-      <p align="center">
-        <code>Three.js</code> <code>GSAP</code> <code>WebGL</code> <code>Performance</code>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+**🏭 TOOL-FACTORY-SKILLS**
+
+My public AI skill factory — fail-closed gates, adversarial review, agents building agents.
+
+[→ the receipts](https://github.com/luv-jeri/tool-factory-skills)
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ APPS IN DAYS**
+
+Production-grade apps shipped in days, not months — specs, tests and evidence ledgers included.
+
+[→ selected work](https://www.hellosanjay.com/)
+
+</td>
+<td width="33%" valign="top">
+
+**🔁 THIS PROFILE**
+
+This README is a build artifact — generated and refreshed by the same pipeline it describes.
+
+[→ how it works](https://github.com/luv-jeri/luv-jeri)
+
+</td>
+</tr>
 </table>
 
-<br/>
+<details>
+<summary><b>📠 SPEC SHEET — peek at the pipeline</b></summary>
+<br>
 
-### 🛠️ Technical Arsenal
+```mermaid
+flowchart LR
+    A[💡 idea] --> B{research gate}
+    B -->|verified demand| C[📋 PRD]
+    C --> D[🗂️ task DAG]
+    D --> E[🤖 agent build]
+    E --> F{adversarial review}
+    F -->|approved| G[🚀 ship]
+    F -->|returned| E
+```
+
+Every stage is a skill with a fail-closed linter behind it. Nothing ships on vibes.
+
+</details>
+
+<img src="assets/eyebrow-acts.svg" alt="THREE ACTS SO FAR" width="100%">
+
+<table>
+<tr>
+<td width="33%" align="center"><img src="assets/act-builder.svg" alt="ACT I — THE BUILDER: Platforms at HighLevel and ReNew Power — course builders, credential editors, carbon markets. SDE III, Lead Frontend." width="100%"></td>
+<td width="33%" align="center"><img src="assets/act-teacher.svg" alt="ACT II — THE TEACHER: Trained working developers in MERN, MEAN and Vue at Newton School, Coding Ninjas, Let's Upgrade. 10,000+ devs taught." width="100%"></td>
+<td width="33%" align="center"><img src="assets/act-founder.svg" alt="ACT III — THE FOUNDER: Ran Haspr, a design-led digital agency — 3D virtual tours, brand sites, apps. You Define, We Design." width="100%"></td>
+</tr>
+</table>
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Cloud & DevOps** |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+<img src="assets/seal.svg" alt="Award seal: DEVS' CHOICE — 10,000+ developers taught — Service · Reliability · est. 2018" width="130">
 
 </div>
 
-<br/>
+<img src="assets/eyebrow-featured.svg" alt="FEATURED SYSTEMS" width="100%">
 
-### 📈 GitHub Activity
+<table>
+<tr>
+<td width="50%"><img src="assets/feat-credentials.svg" alt="CREDENTIALS PLATFORM (Lead Frontend): Canva-style WYSIWYG editor for digital credentials — bulk CSV issuance, verification, analytics. Featuring React, Canvas API, Module Federation, Node.js. NEW!" width="100%"></td>
+<td width="50%"><img src="assets/feat-courses.svg" alt="COURSES PLATFORM (Lead Frontend): Course and community builder — real-time WYSIWYG, device previews, payments, PWA mobile. Featuring Next.js, TypeScript, Capacitor, Micro-frontends." width="100%"></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/feat-carbon.svg" alt="CARBON MARKETPLACE (Project Lead at ReNew): Real-time carbon credit trading — live order books, registry integrations, role-based access. Featuring Next.js, Firebase, GCP, Real-time DB." width="100%"></td>
+<td width="50%"><img src="assets/feat-dmrv.svg" alt="DMRV PLATFORM (Lead Frontend): Environmental measurement, reporting and verification — real-time, high-performance UI. Featuring Next.js, SSR, shadcn/ui, TypeScript." width="100%"></td>
+</tr>
+</table>
+
+### COMPONENT CATALOG
+
+| CATEGORY | COMPONENTS |
+|---|---|
+| **FRONTEND** | `React` `Next.js` `TypeScript` `Vue` `Tailwind` `Redux` |
+| **BACKEND** | `Node.js` `NestJS` `GraphQL` `MongoDB` `PostgreSQL` `Redis` |
+| **CLOUD** | `AWS` `GCP` `Docker` `Kubernetes` `Firebase` `GitHub Actions` |
+| **AI TOOLING** | `Claude Code` `MCP` `Agent pipelines` `Cursor` `v0` |
+| **CRAFT** | `Three.js` `GSAP` `WebGL` `Canvas` |
+
+<img src="assets/eyebrow-dashboard.svg" alt="LIVE DASHBOARD" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luv-jeri&bg_color=0d1117&color=2563EB&line=3b82f6&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="Activity Graph"/>
+
+<img src="assets/pulse.svg" alt="System monitor: this week's commits, pull requests, reviews and top languages — regenerated daily" width="732">
+
 </div>
 
-<br/>
+### 🔨 NOW BUILDING
+
+<!-- NOW-BUILDING:START -->
+- 🔨 **[tool-factory-skills](https://github.com/luv-jeri/tool-factory-skills)** — Evidence-gated Claude Code skill pipeline for shipping micro web tools: pick-next-tool, competitive analysis, PRD generator (+9 planned). IRON LAWS, fail-closed engines, adversarial passes, RED-GREEN evals.
+- 🔨 **[projects-prd-generator](https://github.com/luv-jeri/projects-prd-generator)** — Fail-closed PRD generator skill: turns a measured competitive brief (prd_seed) into a single-source-of-truth PRD + machine build-spec, validated by a Python engine (prd_lint) and an adversarial skeptic. Stage 3 of pick-next-tool / projects-competitive-analysis / projects-prd-generator.
+- 🔨 **[projects-competitive-analysis](https://github.com/luv-jeri/projects-competitive-analysis)** — Claude Code skill: turns a product gist/PRD into a MEASURED, source-ledgered competitive brief that feeds the PRD. Downstream twin of pick-next-tool.
+<!-- NOW-BUILDING:END -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luv-jeri&bg_color=ffffff&color=000000&line=8c9ae0&point=000000&area=true&area_color=c0d4a7&hide_border=true&radius=0" alt="Contribution activity graph" width="100%">
 
-<div align="center">
-  <small>© 2026 Sanjay Kumar Gautam. Crafted with code & creativity.</small>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake.svg" alt="Contribution snake animation" width="100%">
+</picture>
+
+<br><br>
+
+<a href="mailto:hellosanjaygautam@gmail.com"><img src="assets/btn-work.svg" alt="WORK WITH ME — email Sanjay" height="42"></a>&nbsp;
+<a href="https://www.hellosanjay.com/"><img src="assets/btn-portfolio.svg" alt="Portfolio — hellosanjay.com" height="42"></a>&nbsp;
+<a href="https://www.linkedin.com/in/luv-jeri/"><img src="assets/btn-linkedin.svg" alt="LinkedIn — luv-jeri" height="42"></a>
+
+<img src="assets/footer-nav.svg" alt="FIND · HOME · WORK WITH ME · SUPPORT — Copyright © 2026 Sanjay Kumar Gautam. This profile is best viewed with any browser since Netscape 3.0." width="100%">
+
+<sub><i>This profile rebuilds itself daily. Hand-cut SVG, zero webfonts, one red panel — exactly as 1996 intended.</i></sub>
+
 </div>

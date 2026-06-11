@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386 175" width="386" height="175" role="img" aria-label="ACT III - THE FOUNDER: Ran Haspr, a design-led digital agency &#8212; 3D virtual tours, brand sites, apps.">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+    .blink { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+  </style>
+  <rect x="0" y="0" width="386" height="175" fill="#ffffff"/>
+  <rect x="2" y="2" width="382" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <text class="hv" x="14" y="22" font-size="13" font-weight="700" fill="#000000">ACT III &#8212; THE FOUNDER</text>
+  <rect x="2" y="32" width="382" height="141" fill="#d77a7a" stroke="#000000" stroke-width="1"/>
+  <text class="tm" x="20" y="72" font-size="14" fill="#000000">Ran Haspr, a design-led digital</text>
+  <text class="tm" x="20" y="93" font-size="14" fill="#000000">agency &#8212; 3D virtual tours, brand</text>
+  <text class="tm" x="20" y="114" font-size="14" fill="#000000">sites, apps.</text>
+  <text class="hv" x="20" y="156" font-size="12" font-weight="700" fill="#000000">&#8220;YOU DEFINE, WE DESIGN.&#8221;</text>
+</svg>

@@ -1,32 +1,24 @@
-name: Generate Snake Animation
-
+name: snake
 on:
-  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-
-  # Allow manual trigger
+    - cron: "23 5 * * *"
   workflow_dispatch:
-
-  # Run on push to main branch
   push:
     branches:
       - main
-      - master
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      - name: Generate Snake Animation
+      - name: Generate snake (Dell-1996 tint palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: luv-jeri
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#8c9ae0&color_dots=#e5e7eb,#c0d4a7,#b3bd95,#9ab6c8,#8c9ae0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#8c9ae0&color_dots=#161b22,#c0d4a7,#b3bd95,#9ab6c8,#8c9ae0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

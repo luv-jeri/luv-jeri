@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Catalog spec cards: 7+ years across SaaS EdTech EnergyTech; SDE III at HighLevel; 10,000+ developers taught; Founder of Haspr">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+  </style>
+
+  <rect x="0" y="0" width="1200" height="150" fill="#ffffff"/>
+
+  <!-- card 1: EXPERIENCE — sage -->
+  <g>
+    <rect x="8" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="20" y="28" font-size="13" font-weight="700" fill="#000000">EXPERIENCE</text>
+    <rect x="8" y="38" width="285" height="100" fill="#b3bd95" stroke="#000000" stroke-width="1"/>
+    <text class="bk" x="20" y="78" font-size="28" fill="#000000">7+ YEARS</text>
+    <text class="tm" x="20" y="104" font-size="14" fill="#000000">SaaS / EdTech / EnergyTech.</text>
+    <text class="tm" x="20" y="124" font-size="14" fill="#000000">Catalog-tested since 2018.</text>
+  </g>
+
+  <!-- card 2: CURRENT POST — sky -->
+  <g>
+    <rect x="308" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="320" y="28" font-size="13" font-weight="700" fill="#000000">CURRENT POST</text>
+    <rect x="308" y="38" width="285" height="100" fill="#9ab6c8" stroke="#000000" stroke-width="1"/>
+    <text class="bk" x="320" y="78" font-size="28" fill="#000000">SDE III</text>
+    <text class="tm" x="320" y="104" font-size="14" fill="#000000">@ HighLevel &#8212; platforms for</text>
+    <text class="tm" x="320" y="124" font-size="14" fill="#000000">courses &amp; credentials.</text>
+  </g>
+
+  <!-- card 3: DEVELOPERS TAUGHT — peach -->
+  <g>
+    <rect x="608" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="620" y="28" font-size="13" font-weight="700" fill="#000000">DEVELOPERS TAUGHT</text>
+    <rect x="608" y="38" width="285" height="100" fill="#e6915d" stroke="#000000" stroke-width="1"/>
+    <text class="bk" x="620" y="78" font-size="28" fill="#000000">10,000+</text>
+    <text class="tm" x="620" y="104" font-size="14" fill="#000000">MERN &#183; MEAN &#183; Vue.</text>
+    <text class="tm" x="620" y="124" font-size="14" fill="#000000">Newton School, Coding Ninjas.</text>
+  </g>
+
+  <!-- card 4: STARTUP — salmon -->
+  <g>
+    <rect x="908" y="8" width="285" height="30" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+    <text class="hv" x="920" y="28" font-size="13" font-weight="700" fill="#000000">STARTUP</text>
+    <rect x="908" y="38" width="285" height="100" fill="#d77a7a" stroke="#000000" stroke-width="1"/>
+    <text class="bk" x="920" y="78" font-size="28" fill="#000000">FOUNDER</text>
+    <text class="tm" x="920" y="104" font-size="14" fill="#000000">Haspr &#8212; design-led agency.</text>
+    <text class="tm" x="920" y="124" font-size="14" fill="#000000">&#8220;You Define, We Design.&#8221;</text>
+  </g>
+</svg>
