@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386 175" width="386" height="175" role="img" aria-label="ACT I - THE BUILDER">
+  <style>
+    .hv { font-family: Helvetica, Arial, sans-serif; }
+    .bk { font-family: 'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 900; }
+    .tm { font-family: 'Times New Roman', Times, serif; }
+    .blink { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+  </style>
+  <rect x="0" y="0" width="386" height="175" fill="#0d1117"/>
+  <rect x="2" y="2" width="382" height="30" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text class="hv" x="14" y="22" font-size="13" font-weight="700" fill="#000000">ACT I &#8212; THE BUILDER</text>
+  <rect x="2" y="32" width="382" height="141" fill="#8c9ae0" stroke="#ffffff" stroke-width="1"/>
+  <text class="tm" x="20" y="72" font-size="14" fill="#000000">Platforms at HighLevel &amp; ReNew Power &#8212;</text>
+  <text class="tm" x="20" y="93" font-size="14" fill="#000000">course builders, credential editors,</text>
+  <text class="tm" x="20" y="114" font-size="14" fill="#000000">carbon markets.</text>
+  <text class="hv" x="20" y="156" font-size="12" font-weight="700" fill="#000000">SDE III &#183; LEAD FRONTEND</text>
+</svg>
