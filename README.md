@@ -121,9 +121,9 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
-- 🔨 **[tool-factory-skills](https://github.com/luv-jeri/tool-factory-skills)** — Evidence-gated Claude Code skill pipeline for shipping micro web tools: pick-next-tool, competitive analysis, PRD generator (+9 planned). IRON LAWS, fail-closed engines, adversarial passes, RED-GREEN evals.
-- 🔨 **[projects-prd-generator](https://github.com/luv-jeri/projects-prd-generator)** — Fail-closed PRD generator skill: turns a measured competitive brief (prd_seed) into a single-source-of-truth PRD + machine build-spec, validated by a Python engine (prd_lint) and an adversarial skeptic. Stage 3 of pick-next-tool / projects-competitive-analysis / projects-prd-generator.
-- 🔨 **[projects-competitive-analysis](https://github.com/luv-jeri/projects-competitive-analysis)** — Claude Code skill: turns a product gist/PRD into a MEASURED, source-ledgered competitive brief that feeds the PRD. Downstream twin of pick-next-tool.
+- 🔨 **[voice-copy](https://github.com/luv-jeri/voice-copy)** — Fail-closed skill for writing keyed site copy from a persona dossier + design spec — exact key manifest, length budgets, sourced-claims whitelist, banned slop lexicon, contact-detail refusal (copy_gate.py)
+- 🔨 **[award-research](https://github.com/luv-jeri/award-research)** — in progress
+- 🔨 **[persona-research](https://github.com/luv-jeri/persona-research)** — Fail-closed Claude Code skill that builds a provenance-checked personal-brand dossier (ABOUT-ME.md + gated JSON) by mining a person's real sources — refuses unsourced claims and invented quotes.
 <!-- NOW-BUILDING:END -->
 
 <div align="center">
