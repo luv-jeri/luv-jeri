@@ -121,9 +121,9 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
+- 🔨 **[nonlu-skill](https://github.com/luv-jeri/nonlu-skill)** — Prompt enhancer skill for AI coding agents — transforms rough prompts into structured, context-rich prompts. Just add /boost to any prompt. Works with Claude Code, Cursor, Gemini, Codex, and all Agent Skills-compatible tools.
 - 🔨 **[voice-copy](https://github.com/luv-jeri/voice-copy)** — Fail-closed skill for writing keyed site copy from a persona dossier + design spec — exact key manifest, length budgets, sourced-claims whitelist, banned slop lexicon, contact-detail refusal (copy_gate.py)
 - 🔨 **[award-research](https://github.com/luv-jeri/award-research)** — in progress
-- 🔨 **[persona-research](https://github.com/luv-jeri/persona-research)** — Fail-closed Claude Code skill that builds a provenance-checked personal-brand dossier (ABOUT-ME.md + gated JSON) by mining a person's real sources — refuses unsourced claims and invented quotes.
 <!-- NOW-BUILDING:END -->
 
 <div align="center">
