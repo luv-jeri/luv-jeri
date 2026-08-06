@@ -121,8 +121,8 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
-- 🔨 **[beatass](https://github.com/luv-jeri/beatass)** — Anonymous confession + voodoo doll GIF. Write it, take it out on the doll, the beating gets recorded and sent.
 - 🔨 **[nonlu-skill](https://github.com/luv-jeri/nonlu-skill)** — Prompt enhancer skill for AI coding agents — transforms rough prompts into structured, context-rich prompts. Just add /boost to any prompt. Works with Claude Code, Cursor, Gemini, Codex, and all Agent Skills-compatible tools.
+- 🔨 **[beatass](https://github.com/luv-jeri/beatass)** — Anonymous confession + voodoo doll GIF. Write it, take it out on the doll, the beating gets recorded and sent.
 - 🔨 **[voice-copy](https://github.com/luv-jeri/voice-copy)** — Fail-closed skill for writing keyed site copy from a persona dossier + design spec — exact key manifest, length budgets, sourced-claims whitelist, banned slop lexicon, contact-detail refusal (copy_gate.py)
 <!-- NOW-BUILDING:END -->
 
