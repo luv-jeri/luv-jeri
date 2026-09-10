@@ -121,7 +121,7 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
-- 🔨 **[sahajiv-ui](https://github.com/luv-jeri/sahajiv-ui)** — Warm, expressive React components with considered motion. MIT licensed shadcn registry and Fumadocs documentation.
+- 🔨 **[cojeev-ui](https://github.com/luv-jeri/cojeev-ui)** — Warm, expressive React components with considered motion. MIT licensed shadcn registry and Fumadocs documentation.
 - 🔨 **[beatass](https://github.com/luv-jeri/beatass)** — Anonymous confession + voodoo doll GIF. Write it, take it out on the doll, the beating gets recorded and sent.
 - 🔨 **[nonlu-skill](https://github.com/luv-jeri/nonlu-skill)** — Prompt enhancer skill for AI coding agents — transforms rough prompts into structured, context-rich prompts. Just add /boost to any prompt. Works with Claude Code, Cursor, Gemini, Codex, and all Agent Skills-compatible tools.
 <!-- NOW-BUILDING:END -->
