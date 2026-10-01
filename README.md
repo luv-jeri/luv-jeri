@@ -121,8 +121,8 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
+- 🔨 **[0dB](https://github.com/luv-jeri/0dB)** — in progress
 - 🔨 **[cojeev-ui](https://github.com/luv-jeri/cojeev-ui)** — Warm, expressive React components with considered motion. MIT licensed shadcn registry and Fumadocs documentation.
-- 🔨 **[0dB](https://github.com/luv-jeri/0dB)** — 0dB: a type-led design system. The quietest sound you can hear; whitespace is the design, text is the hero.
 - 🔨 **[cojeev-releases](https://github.com/luv-jeri/cojeev-releases)** — Cojeev app downloads and release notes. The source code is private.
 <!-- NOW-BUILDING:END -->
 
