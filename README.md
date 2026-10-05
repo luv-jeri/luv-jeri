@@ -121,9 +121,9 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
+- 🔨 **[nonlu-skill](https://github.com/luv-jeri/nonlu-skill)** — Prompt enhancer skill for AI coding agents — transforms rough prompts into structured, context-rich prompts. Just add /boost to any prompt. Works with Claude Code, Cursor, Gemini, Codex, and all Agent Skills-compatible tools.
 - 🔨 **[0dB](https://github.com/luv-jeri/0dB)** — in progress
 - 🔨 **[cojeev-ui](https://github.com/luv-jeri/cojeev-ui)** — Warm, expressive React components with considered motion. MIT licensed shadcn registry and Fumadocs documentation.
-- 🔨 **[cojeev-releases](https://github.com/luv-jeri/cojeev-releases)** — Cojeev app downloads and release notes. The source code is private.
 <!-- NOW-BUILDING:END -->
 
 <div align="center">
