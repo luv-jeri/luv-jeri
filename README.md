@@ -121,9 +121,9 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
+- 🔨 **[notes-dashboard](https://github.com/luv-jeri/notes-dashboard)** — React notes dashboard over a FastAPI API: CRUD, search, filters, due dates, scroll map, light/dark. Karbon Digital assessment.
 - 🔨 **[0nlyType](https://github.com/luv-jeri/0nlyType)** — in progress
 - 🔨 **[cojeev-ui](https://github.com/luv-jeri/cojeev-ui)** — Warm, expressive React components with considered motion. MIT licensed shadcn registry and Fumadocs documentation.
-- 🔨 **[nonlu-skill](https://github.com/luv-jeri/nonlu-skill)** — Prompt enhancer skill for AI coding agents — transforms rough prompts into structured, context-rich prompts. Just add /boost to any prompt. Works with Claude Code, Cursor, Gemini, Codex, and all Agent Skills-compatible tools.
 <!-- NOW-BUILDING:END -->
 
 <div align="center">
