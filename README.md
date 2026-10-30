@@ -121,9 +121,9 @@ Every stage is a skill with a fail-closed linter behind it. Nothing ships on vib
 ### 🔨 NOW BUILDING
 
 <!-- NOW-BUILDING:START -->
+- 🔨 **[cojeev-ui](https://github.com/luv-jeri/cojeev-ui)** — Warm, expressive React components with considered motion. MIT licensed shadcn registry and Fumadocs documentation.
 - 🔨 **[0nlyType](https://github.com/luv-jeri/0nlyType)** — in progress
 - 🔨 **[notes-dashboard](https://github.com/luv-jeri/notes-dashboard)** — React notes dashboard over a FastAPI API: CRUD, search, filters, due dates, scroll map, light/dark. Karbon Digital assessment.
-- 🔨 **[cojeev-ui](https://github.com/luv-jeri/cojeev-ui)** — Warm, expressive React components with considered motion. MIT licensed shadcn registry and Fumadocs documentation.
 <!-- NOW-BUILDING:END -->
 
 <div align="center">
